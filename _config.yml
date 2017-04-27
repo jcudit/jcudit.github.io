@@ -24,25 +24,9 @@ github_username:  jcudit
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/

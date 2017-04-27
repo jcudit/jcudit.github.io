@@ -162,13 +162,6 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.1.0)
     minima (2.0.0)
-    minimal-mistakes-jekyll (4.4.1)
-      jekyll (~> 3.3)
-      jekyll-feed (~> 0.9.1)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.0)
-      jemoji (~> 0.8)
     minitest (5.10.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
@@ -204,7 +197,7 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
-  minimal-mistakes-jekyll
+  minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
