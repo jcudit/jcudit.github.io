@@ -46,3 +46,11 @@ defaults:
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+author:
+  name: Jeremy Udit
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "A little something for the `website` fields."
+  email  : "jcudit@gmail.com"
+  uri    : "https://jcud.it/"
+  github : "jcudit"
+  location : "San Francisco, CA"
